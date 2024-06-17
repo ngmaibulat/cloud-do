@@ -1,0 +1,1 @@
+doctl compute domain list
